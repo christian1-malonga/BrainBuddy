@@ -1,4 +1,4 @@
-# AI CR7 - Student Management System
+# BrainBuddy AI - Student Management System
 
 A full-stack application with Django REST API backend and React frontend for student management and authentication.
 
@@ -13,7 +13,7 @@ A full-stack application with Django REST API backend and React frontend for stu
 
 ```bash
 # Navigate to backend directory
-cd BACKEND
+cd backend
 
 # Install Python dependencies
 pip install django djangorestframework djangorestframework-simplejwt django-cors-headers channels
@@ -31,7 +31,7 @@ The backend will run on: `http://localhost:8000`
 
 ```bash
 # Navigate to frontend directory
-cd FRONTEND
+cd frontend
 
 # Install Node.js dependencies
 npm install axios react-router-dom @heroicons/react
